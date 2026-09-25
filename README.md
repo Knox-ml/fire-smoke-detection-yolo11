@@ -5,7 +5,7 @@ Real-time fire and smoke detection using **YOLO11** fine-tuned on the [D-Fire da
 
 ## 🎯 Live Demo
 
-> **[Try it on HuggingFace Spaces →](https://huggingface.co/spaces/YOUR_USERNAME/fire-smoke-detection-yolo11)**
+> **[Try it on HuggingFace Spaces →](https://huggingface.co/spaces/KNOX10/fire-smoke-detection-yolo11)**
 
 ---
 
